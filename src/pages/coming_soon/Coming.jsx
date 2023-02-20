@@ -1,10 +1,12 @@
 import React from "react";
 import "./coming_soon.css";
 
-const Coming = () => {
+const coming = () => {
   return (
-    <div>
-      <div>We are launching soon</div>
+    <div className="body">
+      <div>
+        <p>We are launching soon</p>
+      </div>
       <div>
         Our website is opening soon. Please register to get notified when it′s
         ready!
@@ -18,4 +20,4 @@ const Coming = () => {
   );
 };
 
-export default Coming;
+export default coming;

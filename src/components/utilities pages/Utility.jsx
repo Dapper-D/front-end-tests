@@ -39,7 +39,7 @@ const Utility = () => {
               }}
             >
               <HdrWeakOutlinedIcon color="disabled" fontSize="1px" />
-              <a href="../../pages/coming_soon/Coming.jsx"> Coming Soon</a>
+              <a href="#">Coming Soon</a>
             </button>
           </li>
 
